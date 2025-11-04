@@ -1,5 +1,7 @@
 body {
     font-family: inter;
+    width: 960px;
+    height: 1440px;
 }
 
 header, footer {
@@ -30,7 +32,7 @@ img {
     width: 654px;
     height: 459px;
     margin-top: 50px;
-    margin-left: 150px;
+    margin-left: 170px;
 }
 
 p {
